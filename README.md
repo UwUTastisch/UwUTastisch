@@ -22,7 +22,7 @@
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on my Website [UwUTastisch.de](https://uwutastisch.de)
 - 🌱 I’m currently learning how to program Websites
-- ⚡ Fun fact: [Propably every bird you know is propably gay :D](https://en.wikipedia.org/wiki/List_of_birds_displaying_homosexual_behavior)
+- ⚡ Fun fact: [Every bird you know is propably gay :D](https://en.wikipedia.org/wiki/List_of_birds_displaying_homosexual_behavior)
 
 ---
 
