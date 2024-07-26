@@ -1,5 +1,3 @@
-## Hi OwO 👋
-
 # It's me UwUTastisch
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on my Website [UwUTastisch.de](https://uwutastisch.de)
