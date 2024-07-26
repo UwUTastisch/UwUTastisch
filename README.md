@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/UwUTastisch.png" width="200"/>
   <h1>It's me UwUTastisch</h1>
+  <h3>Checkout my Website: <a href="https://uwutastisch.de"></a>UwUTastisch.de</h3>
 <!--
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -41,8 +42,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
-## Stats
-<img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UwUTastisch&layout=donut&theme=dark">
+---
+### Stats
+
+<img height="156px" src="https://github-readme-streak-stats.herokuapp.com/?user=UwUTastisch&theme=dark">
+
+<img height="312px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UwUTastisch&theme=dark">
 
 <!--
 **UwUTastisch/UwUTastisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
