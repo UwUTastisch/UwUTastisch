@@ -27,7 +27,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+<div class="flex"><!-- .element: style="display: flex; flex-direction: row;" -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
