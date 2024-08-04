@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img style="margin: 0" src="https://github.com/UwUTastisch.png" width="200"/>
   <h1>It's me UwUTastisch</h1>
-  <h3>Checkout my Website: <a href="https://uwutastisch.de">UwUTastisch.de</a></h3>
 <!--
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -17,12 +16,23 @@
   -->
 </div>
 
-
 ### About me
-- 😄 Pronouns: he/him
+- 🎂 Age: 20
+- 😄 Pronouns: he/him (generally unimportant tho)
+- 🤓 Field of study: Computer Engineering/Technische Informatik
+- 🗪 Languages: German, English
 - 🔭 I’m currently working on my Website [UwUTastisch.de](https://uwutastisch.de)
 - 🌱 I’m currently learning how to program Websites
 - ⚡ Fun fact: [Every bird you know is propably gay :D](https://en.wikipedia.org/wiki/List_of_birds_displaying_homosexual_behavior)
+
+---
+
+### My daily drive distributions:
+- Ubuntu (Asus-Zenbook-Duo-ux482ea ) (since 2022)
+- Arch (Gaming/AI-Custom-PC) (since begin of 2024)
+
+Linux distributions I've used at some point for idk tbh:
+Nix-OS, Garuda, Mint, Debian, Fedora, Holo-Iso, Pop-Os, UwUntu, CentOs, Manjaro
 
 ---
 
