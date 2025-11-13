@@ -17,7 +17,7 @@
 </div>
 
 ### About me
-- 🎂 Age: 21
+- 🎂 Age: 22
 - 😄 Pronouns: he/him (generally unimportant tho)
 - 🤓 Field of study: Computer Engineering/Technische Informatik
 - 🗪 Languages: German, English
